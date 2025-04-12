@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082156490602",
+    "project_id": "pruebapokedex2025",
+    "storage_bucket": "pruebapokedex2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082156490602:android:2191b17e7ad8c4b4294f13",
+        "android_client_info": {
+          "package_name": "com.example.prueba_tecnica_felipe_garces_pokedex_abril_2025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082156490602-jjkn0ofgjp2rbc3khj4oga6nev5aga8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prueba_tecnica_felipe_garces_pokedex_abril_2025",
+            "certificate_hash": "488e6c73e1ffcb9b78d04da5203b9e3631fd0588"
+          }
+        },
+        {
+          "client_id": "1082156490602-rj0fh054nc0junvb2513nl9pp94srujd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPsKGRczfUPjDk60GKEJBOaSTlqYKdaQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082156490602-fipurr18fl09gnoj4reo5g8g8fqnu5cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
